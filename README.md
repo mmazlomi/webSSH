@@ -1,5 +1,7 @@
 # web-ssh-terminal
 
+[![CI](https://github.com/mmazlomi/webSSH/actions/workflows/ci.yml/badge.svg)](https://github.com/mmazlomi/webSSH/actions/workflows/ci.yml)
+[![Dependencies](https://img.shields.io/librariesio/github/mmazlomi/webSSH)](https://libraries.io/github/mmazlomi/webSSH)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Browser SSH client. Multi-tab [xterm.js](https://xtermjs.org/) front end (React), thin
