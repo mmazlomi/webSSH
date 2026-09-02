@@ -1,5 +1,7 @@
 # web-ssh-terminal
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Browser SSH client. Multi-tab [xterm.js](https://xtermjs.org/) front end (React), thin
 Node back end (`ssh2` + `ws`). Built for correct, unobtrusive **copy / paste** that
 never fights the remote shell.
