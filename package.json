@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Browser SSH terminal with multi-tab xterm.js and full copy/paste support",
+  "license": "MIT",
   "scripts": {
     "dev": "concurrently -k -n server,client -c blue,green \"npm:dev:server\" \"npm:dev:client\"",
     "dev:server": "node --watch server/index.js",
